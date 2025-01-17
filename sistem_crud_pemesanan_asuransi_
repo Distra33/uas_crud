@@ -1,0 +1,23 @@
+UAS Pemrograman web, Diandra Satria Pinilih prodi d4 elektromedis (01202205009)
+### Deskripsi Proyek:
+"Sistem CRUD Pemesanan Asuransi Diandrasuransi" adalah sebuah aplikasi berbasis web yang menyediakan layanan untuk pemesanan produk asuransi secara online. 
+Sistem ini memungkinkan pengguna untuk melakukan operasi dasar seperti **Create (Membuat)**, **Read (Membaca)**, **Update (Memperbarui)**, dan **Delete (Menghapus)** data pemesanan asuransi.
+
+### Fitur Utama:
+1. Pendaftaran Pengguna: Pengguna dapat mendaftar untuk membuat akun, memasukkan informasi pribadi, serta mengelola profil mereka.
+2. Pemilihan Produk Asuransi: Pengguna dapat memilih produk asuransi sesuai kebutuhan mereka, misalnya asuransi kesehatan, kendaraan, jiwa, dll.
+3. Proses Pemesanan: Pengguna dapat memesan produk asuransi yang dipilih melalui formulir pemesanan yang telah disediakan dalam sistem.
+4. Manajemen Pemesanan: Pengguna yang sudah terdaftar dapat mengakses status pemesanan mereka, memperbarui data jika diperlukan, atau membatalkan pesanan mereka.
+5. Admin Panel: Admin memiliki akses penuh untuk mengelola data pemesanan, termasuk mengonfirmasi, memperbarui, atau menghapus pesanan yang telah dibuat oleh pengguna.
+6. Autentikasi Pengguna: Sistem ini dilengkapi dengan autentikasi pengguna untuk memastikan hanya pengguna yang terdaftar yang dapat mengakses fitur tertentu.
+7.Fitur Pengaturan Akun: Fitur ini memungkinkan pengguna untuk memperbarui data profil mereka melalui halaman pengaturan akun. 
+Pengguna yang sudah terdaftar di sistem dapat mengakses dan memperbarui informasi pribadi. Fitur ini juga memberikan opsi untuk mengubah peran pengguna (role), misalnya menjadi admin atau user.
+
+### Teknologi yang Digunakan:
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: PHP, MySQL untuk database
+- **Fitur Keamanan**: Penggunaan sesi (session) untuk login dan validasi data pengguna
+
+### Tujuan Proyek:
+Proyek ini bertujuan untuk menyediakan platform yang memudahkan pengguna dalam memilih dan memesan produk asuransi secara online, sambil memastikan pengelolaan data yang efisien dan aman.
+
